@@ -1,9 +1,9 @@
 # Cancer Game
 
-# Tools 
+## Tools 
 Tools : java - AWT Package - Fille
 
-# Images 
+## Images 
 
 ![S1](https://user-images.githubusercontent.com/95625845/198024449-142167b0-7702-426c-be86-c54f03e90571.png)
 ![s2](https://user-images.githubusercontent.com/95625845/198024453-7d2fa707-2d60-44fb-a6de-6889bfab3c6e.png)
